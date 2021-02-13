@@ -1,0 +1,70 @@
+
+.config-div1{
+    background-image: url('../img/background.jpg');
+    color: white;
+    height: 400px;
+}
+
+.config-h3-div1{
+    margin-top: 140px;
+    margin-left: 240px;
+    border-bottom: brown 3px solid; 
+}
+.container-clients{
+    background-color:#ccc;
+}
+
+
+.container-item-carousel{
+    margin-top: 80px;
+    height: 270px;
+}
+.container-item-p{
+    max-width: 900px;
+    min-width: 200px;
+    margin: auto;
+}
+
+/* FOOTER */
+.container-footer{
+    margin-top: 60px;
+    background-color: rgb(15, 15, 71);
+    color: white;
+}
+.ul-footer{
+   list-style: none;
+   display: inline;
+}
+.ul-footer a{
+    color: white;
+}
+.h5-footer{
+    margin-top: 15px;
+}
+
+/* Configurações gerais */
+#font-title{
+    background-color:brown;
+    color: white;
+    width: 160px;
+    height: 50px;
+    text-align: center;
+    font-size: 25px;
+}
+.underline{
+    content: '';
+    border-top: 2px solid brown;
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+}
+.font-red{
+    color: brown;
+}
+.borda-clients{
+    content: '';
+    border-top: 3px solid black;
+    margin-bottom: 10px;
+    display: block;
+ 
+}
